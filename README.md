@@ -12,7 +12,7 @@ Ozosphere is for:
 - CLI power users who want full control.
 - Anyone who wants a distraction-free environment.
 
-There’s no desktop environment. No graphical package managers. No hand-holding. Just a clean terminal and preinstalled tools to let you hit the ground running.
+There’s no desktop environment (unless you need it for temp use). No graphical package managers. No hand-holding. Just a clean terminal and preinstalled tools to let you hit the ground running.
 
 ## 🚀 Features
 
@@ -44,6 +44,7 @@ Some of the tools Ozosphere ships with (subject to change):
 - `micro` or `nano` – simple terminal text editor
 - `curl` and `wget` – for fetching stuff
 - `git` – version control
+- `XFCE` please only use if you need, meant for temporary use of graphical applications
 
 No Python. No Node. No Rust. You want it? Install it.
 
