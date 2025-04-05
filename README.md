@@ -49,8 +49,7 @@ No Python. No Node. No Rust. You want it? Install it.
 
 ## 🛠️ Installation
 
-Coming soon – for now, clone the repo and build your own ISO using the included scripts.  
-Full installation guide is on the way.
+Coming soon
 
 ## 🧪 Status
 
@@ -65,7 +64,7 @@ Fork it. Hack it. Submit a pull request. Or just open an issue with your suggest
 
 ## 💬 License
 
-MIT. Do what you want. Just don’t blame me if you wipe your system.
+Gnu General Public License V3. Do what you want. Just don’t blame me if you wipe your system.
 
 ---
 
