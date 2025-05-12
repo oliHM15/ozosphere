@@ -1,3 +1,7 @@
+# ⚠️ NOTICE!!!
+**This is a work in progress (WIP) project**
+you may notice the ack of files in this repository, as of now, i (olihm15) am still working on an initial alpha build. please be patient while i work on it. Thx :)
+
 # 🌌 Ozosphere
 
 **The terminal is your playground.**  
